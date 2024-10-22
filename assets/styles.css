@@ -25,7 +25,7 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
 }
 
 .container {
@@ -60,7 +60,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #ffffff;
+    color: #003366;
     text-decoration: none;
 }
 
