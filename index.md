@@ -5,9 +5,6 @@ layout: home
 # Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services - a [BIODIVERSA](https://www.biodiversa.eu/2022/10/25/mpa4sustainability/) project
 
 
-## Introduction
-
-
 <div class="grid-container">
     <div class="grid-item">
         <h2>programme of work</h2>
@@ -18,8 +15,11 @@ layout: home
         <img src="{{ '/assets/WPdiagram.png' | relative_url }}" alt="WP interlinkages" data-zoomable>
     </div>
     <div class="grid-item">
-        <h2>Feature 2</h2>
-        <p>Description of Feature 2.</p>
+        <h2>3 case studies</h2>
+        <div class="justified-text">
+        <p>We work with local partners directly involved in MPA management in three locations selected for their complexity and their maturity</p>
+        </div>
+        <img src="{{ '/assets/WPdiagram.png' | relative_url }}" alt="WP interlinkages" data-zoomable>
     </div>
     <div class="grid-item">
         <h2>Feature 3</h2>
