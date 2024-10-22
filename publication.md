@@ -3,6 +3,6 @@ layout: page
 title: publication
 ---
 
-#Scientific publications 
+# Scientific publications 
 
-#Reports for the case study areas
+# Reports for the case study areas
