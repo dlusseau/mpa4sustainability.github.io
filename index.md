@@ -6,11 +6,6 @@ layout: home
 
 This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services"
 
-## Table of Contents
-- [home](home)
-- [about](about)
-- [publications](publication)
-- [contact](contact)
 
 ## Introduction
 
@@ -44,5 +39,4 @@ This is the introduction section of your home page.
         <p>Description of Feature 6.</p>
     </div>
 </div>
-## Contact Information
-This section contains my contact information.
+
