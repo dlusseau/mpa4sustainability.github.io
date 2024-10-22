@@ -13,7 +13,10 @@ This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restor
 <div class="grid-container">
     <div class="grid-item">
         <h2>programme of work</h2>
+   <div class="justified-text">
         <p>this project is composed of four interdisciplinary work packages which aim to understand how people and nature interact at MPA sites and learn lessons about practices which can help assure that biodiversity objectives are addressed at those sites</p>
+   </div>
+        
         <img src="{{ '/assets/WPdiagram.png' | relative_url }}" alt="WP interlinkages" data-zoomable>
     </div>
     <div class="grid-item">
