@@ -1,0 +1,11 @@
+.image-container {
+    position: relative;
+}
+
+.top-right-image {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    right: 10px; /* Adjust as needed */
+    width: 150px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+}
