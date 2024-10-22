@@ -9,6 +9,15 @@
     width: 600px; /* Adjust size as needed */
     height: auto; /* Maintain aspect ratio */
 }
+
+.header-image {
+    max-width: 500px; /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+    float: left; /* Aligns the image to the left */
+    margin-right: 20px; /* Space between the image and the text */
+}
+
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
