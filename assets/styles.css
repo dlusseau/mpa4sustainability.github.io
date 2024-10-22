@@ -112,6 +112,11 @@ footer {
 
 .justified-text {
     text-align: justify; /* Justifies the text */
-    font-size: 2vw; /* Responsive font size */
+    font-size: 1.1vw; /* Responsive font size */
+    line-height: 1.5; /* Adjust line height for readability */
+}
+
+.other-text {
+    font-size: 1.1vw; /* Responsive font size */
     line-height: 1.5; /* Adjust line height for readability */
 }
