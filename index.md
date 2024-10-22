@@ -9,12 +9,12 @@ This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restor
 
 ## Introduction
 
-This is the introduction section of your home page.
+
 <div class="grid-container">
     <div class="grid-item">
-        <h2>Feature 1</h2>
-        <p>Description of Feature 1.</p>
-        <img src="{{ '/assets/feature1.jpg' | relative_url }}" alt="Feature 1 Image">
+        <h2>programme of work</h2>
+        <p>this project is composed of four interdisciplinary work packages which aim to understand how people and nature interact at MPA sites and learn lessons about practices which can help assure that biodiversity objectives are addressed at those sites</p>
+        <img src="{{ '/assets/WPdiagram.tif' | relative_url }}" alt="WP interlinkages">
     </div>
     <div class="grid-item">
         <h2>Feature 2</h2>
