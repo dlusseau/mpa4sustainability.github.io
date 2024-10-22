@@ -65,7 +65,7 @@ nav ul li a {
 
 main {
     padding: 20px 0;
-    background: #e6e6e6; 
+    background: #f0f0f0; 
 }
 
 section {
@@ -84,4 +84,26 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive columns */
+    gap: 20px; /* Space between grid items */
+    padding: 20px;
+}
+
+.grid-item {
+    background: #ffffff; /* White background for each item */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 15px;
+    text-align: center; /* Center text */
+}
+
+.grid-item img {
+    max-width: 100%; /* Responsive image */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Rounded corners for images */
 }
