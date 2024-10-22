@@ -12,14 +12,13 @@ Currently, there are more than 17,000 marine protected areas (MPAs) around the w
 </div>
 
 # Main activities
-<div class="other-text">
+<div class="justified-text">
 <p>
-MPA4Sustainability will assess how  existing MPAs can be used not only to achieve biodiversity targets, but also to maximise their contributions to the blue economy while respecting Nature. To do so, MPA4Sustainability will:
+MPA4Sustainability will assess how  existing MPAs can be used not only to achieve biodiversity targets, but also to maximise their contributions to the blue economy while respecting Nature. To do so, MPA4Sustainability will: </p>
 1. Estimate how changes in biodiversity associated with MPA establishment, and embedding in existing spatial management, and management are related to ecosystem service  exploitations. A retrospective approach will be used to estimate how biodiversity indicators are associated with  ecosystem service exploitation richness, yield and resilience in existing MPAs depending on their characteristics and objectives.
 2. Estimate the dynamics of these socioecological networks of biodiversity and  ecosystem service exploitation, the variety of states they can occupy, and the detection of possible cases of socio-ecological systems close to tipping points, using prospective analytical and computational approaches. There will be a focus on estimating the role of MPA management actions and human pressure in driving those changes.
 3. Assess whether readily available indicators can be used to monitor progress and adjust management of MPAs to ensure sustainability and the achievement of biodiversity targets. 
 4. Carry out policy analyses to evaluate how networks of MPAs, that can come from varied regulatory frameworks, can have added value for regional biodiversity and  ecosystem service targets.
-</p>
 </div>
 
 # Outcomes and expected impacts
@@ -40,23 +39,24 @@ Current MPA design frameworks and guidelines assume that MPAs can fall along a p
 </div>
 
 # Experiment, case studies
-<div class="other-text">
+<div class="justified-text">
 <p>
 MPA4Sustainability will use three European case studies representing typical MPA configurations in terms of management complexity and management phases. 
+</p>
 1. [Cerbère-Banyuls](https://maps.app.goo.gl/Uhj41SGm8fYzVDzP7){:target="_blank" rel="noopener noreferrer"} is an old MPA which has recently been embedded within the Golfe du Lion marine park with various protection zones, managed by multiple agencies. 
 2. [Madeira](https://maps.app.goo.gl/tXbK8aHit1bQmZvVA){:target="_blank" rel="noopener noreferrer"} has established one of the newest Site of Community Importance to conserve highly mobile species. Its management plan needs to be integrated with existing adjacent MPAs. 
 3. A mosaic of MPAs exist in [Øresund](https://maps.app.goo.gl/QjX4qWzd5cf8xAAu5){:target="_blank" rel="noopener noreferrer"}, the strait between Sweden and Denmark. Øresundsvandssamarbejdet (stakeholder consortium) is exploring the potential to create a coherent network of MPAs.  
-</p>
+
 </div>
 
 # Funders
-<div class="other-text">
-<p>
+<div class="justified-text">
+
 Innovation Fund Denmark (IFD), Denmark
 Agence Nationale de la Recherche (ANR), France
 Swedish Environmental Protection Agency (SEPA), Sweden
 Fundação para a Ciência e a Tecnologia (FCT), Portugal
 State Research Agency (AEI), Spain
 Biodiversa programme
-</p>
+
 </div>
