@@ -2,9 +2,7 @@
 layout: home
 ---
 
-# Welcome to mpa4sustainability
-
-This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services"
+# Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services - a [BIODIVERSA](https://www.biodiversa.eu/2022/10/25/mpa4sustainability/) project
 
 
 ## Introduction
