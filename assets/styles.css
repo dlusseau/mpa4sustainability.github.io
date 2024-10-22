@@ -109,3 +109,9 @@ footer {
     height: auto; /* Maintain aspect ratio */
     border-radius: 5px; /* Rounded corners for images */
 }
+
+.justified-text {
+    text-align: justify; /* Justifies the text */
+    font-size: 2vw; /* Responsive font size */
+    line-height: 1.5; /* Adjust line height for readability */
+}
