@@ -14,7 +14,7 @@ This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restor
     <div class="grid-item">
         <h2>programme of work</h2>
         <p>this project is composed of four interdisciplinary work packages which aim to understand how people and nature interact at MPA sites and learn lessons about practices which can help assure that biodiversity objectives are addressed at those sites</p>
-        <img src="{{ '/assets/WPdiagram.png' | relative_url }}" alt="WP interlinkages">
+        <img src="{{ '/assets/WPdiagram.png' | relative_url }}" alt="WP interlinkages" data-zoomable>
     </div>
     <div class="grid-item">
         <h2>Feature 2</h2>
@@ -40,3 +40,7 @@ This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restor
     </div>
 </div>
 
+<script src="https://unpkg.com/medium-zoom/dist/medium-zoom.min.js"></script>
+<script>
+  mediumZoom('[data-zoomable]');
+</script>
