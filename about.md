@@ -39,15 +39,13 @@ Current MPA design frameworks and guidelines assume that MPAs can fall along a p
 </div>
 
 # Experiment, case studies
-<div class="other-text">
-<p>
+
 MPA4Sustainability will use three European case studies representing typical MPA configurations in terms of management complexity and management phases. 
-</p>
+
 1. [Cerbère-Banyuls](https://maps.app.goo.gl/Uhj41SGm8fYzVDzP7) is an old MPA which has recently been embedded within the Golfe du Lion marine park with various protection zones, managed by multiple agencies. 
 2. [Madeira](https://maps.app.goo.gl/tXbK8aHit1bQmZvVA) has established one of the newest Site of Community Importance to conserve highly mobile species. Its management plan needs to be integrated with existing adjacent MPAs. 
 3. A mosaic of MPAs exist in [Øresund](https://maps.app.goo.gl/QjX4qWzd5cf8xAAu5), the strait between Sweden and Denmark. Øresundsvandssamarbejdet (stakeholder consortium) is exploring the potential to create a coherent network of MPAs.  
 
-</div>
 
 # Funders
 <div class="justified-text">
