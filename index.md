@@ -10,10 +10,10 @@ layout: home
 This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services"
 
 ## Table of Contents
-- [home](home.md)
-- [about](about.md)
-- publications
-- contact
+- [home](home)
+- [about](about)
+- [publications](publication)
+- [contact](contact)
 
 ## Introduction
 
