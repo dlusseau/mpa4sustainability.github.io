@@ -11,7 +11,7 @@
 }
 
 .header-image {
-    max-width: 500px; /* Adjust the size as needed */
+    max-width: 300px; /* Adjust the size as needed */
     height: auto; /* Maintain aspect ratio */
     float: left; /* Aligns the image to the left */
     margin-right: 20px; /* Space between the image and the text */
