@@ -2,7 +2,7 @@
 layout: home
 ---
 <div class="image-container">
-    <img src="{{ '/assets/logo2.png' | relative_url }}" alt="My Image" class="top-right-image">
+    <img src="{{ '/assets/logo2.png' | relative_url }}" alt="logo" class="top-right-image">
 </div>
 
 # Welcome to mpa4sustainability
