@@ -13,7 +13,7 @@ This is the homepage of the Biodiversa project "Enhancing MPAs’ role in restor
 - home
 - about
 - publications
-- - contact
+- contact
 
 ## Introduction
 
