@@ -13,10 +13,10 @@
         <h1>{{ mpa4sustainability }}</h1>
         <nav>
             <ul>
-                <li><a href="#home">home</a></li>
-                <li><a href="#about">about</a></li>
-                <li><a href="#publication">publication</a></li>
-                <li><a href="#contact">contact</a></li>
+                <li><a href="{{ '/' | relative_url }}">home</a></li>
+                <li><a href="{{ '/about' | relative_url }}">about</a></li>
+                <li><a href="{{ '/publications' | relative_url }}">publication</a></li>
+                <li><a href="{{ '/contact' | relative_url }}">contact</a></li>
             </ul>
         </nav>
         <\div>
