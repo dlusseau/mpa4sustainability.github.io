@@ -36,7 +36,7 @@ MPA4Sustainability will provide practical guidelines to implement the Decision S
 # Project contribution to policies and / or society
 <div class="justified-text">
 <p>
-Current MPA design frameworks and guidelines assume that MPAs can fall along a protection continuum from fully-protected no-take areas to multiple use areas and that the closer to full protection an MPA is, the more it contributes to healthy oceans and benefit people. However, this continuum may suffer abrupt transitions between states due to non-linearity in  socio-ecological systems. MPA4Sustainability will expand these guidelines, which influence regulatory implementations of European Directives, with a decision support system fulfilling the ambition the European Biodiversity Strategy and Green Deal. It will also contribute to IUCN’s Global Standards and User Manual of the Green List. 
+Current MPA design frameworks and guidelines assume that MPAs can fall along a protection continuum from fully-protected no-take areas to multiple use areas and that the closer to full protection an MPA is, the more it contributes to healthy oceans and benefit people. However, this continuum may suffer abrupt transitions between states due to non-linearity in socio-ecological systems. MPA4Sustainability will expand these guidelines, which influence regulatory implementations of European Directives, with a decision support system fulfilling the ambition the European Biodiversity Strategy and Green Deal. It will also contribute to IUCN’s Global Standards and User Manual of the Green List. 
 </p>
 </div>
 
