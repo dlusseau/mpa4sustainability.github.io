@@ -15,6 +15,9 @@
     height: auto; /* Maintain aspect ratio */
     float: left; /* Aligns the image to the left */
     margin-right: 20px; /* Space between the image and the text */
+    border: 2px solid #ffffff; /* White border around the logo */
+    border-radius: 5px; /* Rounded corners for a softer look */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Subtle shadow for depth */
 }
 
 
@@ -22,7 +25,7 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f0f0f0;
 }
 
 .container {
@@ -32,7 +35,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: rgba(0, 51, 102, 0.8);
     color: #fff;
     padding: 20px 0;
 }
@@ -56,25 +59,26 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 
 main {
     padding: 20px 0;
+    background: #e6e6e6; 
 }
 
 section {
     margin: 20px 0;
     padding: 20px;
-    background: #fff;
+    background: #ffffff;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 footer {
-    background: #333;
-    color: #fff;
+    background: #003366;
+    color: #ffffff;
     text-align: center;
     padding: 10px 0;
     position: relative;
