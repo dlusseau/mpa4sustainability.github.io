@@ -19,7 +19,7 @@ layout: home
         <div class="justified-text">
         <p>We work with local partners directly involved in MPA management in three locations selected for their complexity and their maturity</p>
         </div>
-        <img src="{{ '/assets/WPdiagram.png' | relative_url }}" alt="WP interlinkages" data-zoomable>
+        <img src="{{ '/assets/case_studies.png' | relative_url }}" alt="WP interlinkages" data-zoomable>
     </div>
     <div class="grid-item">
         <h2>Feature 3</h2>
