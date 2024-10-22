@@ -48,10 +48,10 @@ MPA4Sustainability will use three European case studies representing typical MPA
 
 # Funders
 
-Innovation Fund Denmark (IFD), Denmark
-Agence Nationale de la Recherche (ANR), France
-Swedish Environmental Protection Agency (SEPA), Sweden
-Fundação para a Ciência e a Tecnologia (FCT), Portugal
-State Research Agency (AEI), Spain
-Biodiversa programme
+* Innovation Fund Denmark (IFD), Denmark
+* Agence Nationale de la Recherche (ANR), France
+* Swedish Environmental Protection Agency (SEPA), Sweden
+* Fundação para a Ciência e a Tecnologia (FCT), Portugal
+* State Research Agency (AEI), Spain
+* Biodiversa programme
 
