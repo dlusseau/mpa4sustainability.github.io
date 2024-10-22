@@ -12,14 +12,13 @@ Currently, there are more than 17,000 marine protected areas (MPAs) around the w
 </div>
 
 # Main activities
-<div class="other-text">
-<p>
-MPA4Sustainability will assess how  existing MPAs can be used not only to achieve biodiversity targets, but also to maximise their contributions to the blue economy while respecting Nature. To do so, MPA4Sustainability will: </p>
+
+MPA4Sustainability will assess how  existing MPAs can be used not only to achieve biodiversity targets, but also to maximise their contributions to the blue economy while respecting Nature. To do so, MPA4Sustainability will:
 1. Estimate how changes in biodiversity associated with MPA establishment, and embedding in existing spatial management, and management are related to ecosystem service  exploitations. A retrospective approach will be used to estimate how biodiversity indicators are associated with  ecosystem service exploitation richness, yield and resilience in existing MPAs depending on their characteristics and objectives.
 2. Estimate the dynamics of these socioecological networks of biodiversity and  ecosystem service exploitation, the variety of states they can occupy, and the detection of possible cases of socio-ecological systems close to tipping points, using prospective analytical and computational approaches. There will be a focus on estimating the role of MPA management actions and human pressure in driving those changes.
 3. Assess whether readily available indicators can be used to monitor progress and adjust management of MPAs to ensure sustainability and the achievement of biodiversity targets. 
 4. Carry out policy analyses to evaluate how networks of MPAs, that can come from varied regulatory frameworks, can have added value for regional biodiversity and  ecosystem service targets.
-</div>
+
 
 # Outcomes and expected impacts
 <div class="justified-text">
