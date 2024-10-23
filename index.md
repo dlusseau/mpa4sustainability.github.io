@@ -37,6 +37,7 @@ layout: home
     <div class="grid-item">
         <h3>Intelligent monitoring</h3>
         <p>We wtest the use of ‘citizen monitoring’ and low cost eDNA sampling to monitor MPAs.</p>
+           <img src="{{ '/assets/edna.jpg' | relative_url }}" alt="forum" data-zoomable>
          </div>
     <div class="grid-item">
         <h3>Integrative governance</h3>
