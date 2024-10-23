@@ -32,7 +32,7 @@ layout: home
     <div class="grid-item">
         <h2>Modelling and prediction of ecosystem resilience under perturbations</h2>
         <p>we investigate how ecosystem services (ES) exploitation affects ecological dynamics and causes biodiversity and ES loss in MPAs and coastal systems</p>
-         <img src="{{ '/assets/phasediagram.png' | relative_url }}" alt="phase diagram">
+         <img src="{{ '/assets/phasediagram.png' | relative_url }}" alt="phase diagram" data-zoomable>
     </div>
     <div class="grid-item">
         <h2>Intelligent monitoring</h2>
