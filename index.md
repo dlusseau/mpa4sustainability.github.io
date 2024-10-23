@@ -4,8 +4,8 @@ layout: home
 
 <h2> Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services - a <a href="https://www.biodiversa.eu/2022/10/25/mpa4sustainability/" target="_blank">BIODIVERSA</a> project </h2>
 
-<p> You can find more about the objectives and work ongoing in this project in the <a href="about.md">about</a> page.</p>
-<p> This website is dedicated to dissemination. You can find links to the <a href="data.md">data</a> we generate, our <a href="https://github.com/dlusseau/mpa4sustainability">code</a>, and our <a href="publication.md">publications</a>. </p>
+<p> You can find more about the objectives and work ongoing in this project in the <a href="about.html">about</a> page.</p>
+<p> This website is dedicated to dissemination. You can find links to the <a href="data.html">data</a> we generate, our <a href="https://github.com/dlusseau/mpa4sustainability">code</a>, and our <a href="publication.html">publications</a>. </p>
 <p> The Decision Support System will also be hosted on this website at the end of the project. </p>
 
 <div class="grid-container">
@@ -27,21 +27,21 @@ layout: home
     <div class="grid-item">
         <h3>Relationships between biodiversity and ecosystem services</h3>
         <p>We estimate 16,000+ Species-human pressures networks at MPA sites to understand whether their structure differs under different MPA management and socioecological contexts</p>
-        <a href="publication.md#WP1">[outputs]</a>
+        <a href="publication.html#WP1">[outputs]</a>
         
        <img src="{{ '/assets/SES.png' | relative_url }}" alt="SES example" data-zoomable>
     </div>
     <div class="grid-item">
         <h3>Modelling and prediction of ecosystem resilience under perturbations</h3>
         <p>we investigate how ecosystem services (ES) exploitation affects ecological dynamics and causes biodiversity and ES loss in MPAs and coastal systems</p>
-        <a href="publication.md#WP2">[outputs]</a>
+        <a href="publication.html#WP2">[outputs]</a>
         
          <img src="{{ '/assets/phasediagram.png' | relative_url }}" alt="phase diagram" data-zoomable>
     </div>
     <div class="grid-item">
         <h3>Intelligent monitoring</h3>
         <p>We test the use of ‘citizen monitoring’ and low cost eDNA sampling to monitor MPAs.</p>
-        <a href="publication.md#WP3">[outputs]</a>
+        <a href="publication.html#WP3">[outputs]</a>
         
            <img src="{{ '/assets/edna.jpg' | relative_url }}" alt="forum" data-zoomable>
             <p>Photo by Museu da Baleia da Madeira: 
@@ -54,7 +54,7 @@ layout: home
         <h3>Integrative governance</h3>
         <p>We map synergies and conflicts among policy instruments and use network analyses to identify policies that can have disproportionate effects on others and identify direct and system-level conflicts among    
  policies</p>
- <a href="publication.md#WP4">[outputs]</a>
+ <a href="publication.html#WP4">[outputs]</a>
  
      <img src="{{ '/assets/query1C1.eurovocterm.network.png' | relative_url }}" alt="eurovoc" data-zoomable>
     </div>
