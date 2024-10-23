@@ -8,7 +8,7 @@ title: team
 * <a href="https://www.criobe.pf/en/home/" target="_blank">CRIOBE (CNRS/EPHE/Universite de Perpignan)</a>
 * <a href="https://sites.google.com/site/nonlineardynamicsevolutionlab/home" target="_blank">Centre de Recerca Matematica - Nonlinear Dynamics and Evolution</a>
 * <a href="https://www.ibe.upf-csic.es/valverde" target="_blank">CSIC - evolution of networks lab</a>
-* <a href="https://www.museudabaleia.org/en/science-in-museum.html" target="_blank">Madeira Museu da baleia</a>
+* <a href="https://www.museudabaleia.org/en/science-in-museum.html" target="_blank">Museu da Baleia da Madeira</a>
 * <a href="https://www.slu.se/en/departments/aquatic-resources1/research/" target="_blank">Sveriges lantbruksuniversitet - Department of Aquatic Resources - SLU Aqua</a>
 * <a href="https://aqua.dtu.dk" target="_blank">Technical University of Denmark - Institute of Aquatic Resources - DTU Aqua</a>
 
