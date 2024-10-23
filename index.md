@@ -44,6 +44,7 @@ layout: home
         <h3>Integrative governance</h3>
         <p>We map synergies and conflicts among policy instruments and use network analyses to identify policies that can have disproportionate effects on others and identify direct and system-level conflicts among    
  policies</p>
+     <img src="{{ '/assets/query1C1.eurovocterm.network.png' | relative_url }}" alt="eurovoc" data-zoomable>
     </div>
 </div>
 
