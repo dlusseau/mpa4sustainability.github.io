@@ -36,8 +36,9 @@ layout: home
     </div>
     <div class="grid-item">
         <h3>Intelligent monitoring</h3>
-        <p>We wtest the use of ‘citizen monitoring’ and low cost eDNA sampling to monitor MPAs.</p>
+        <p>We test the use of ‘citizen monitoring’ and low cost eDNA sampling to monitor MPAs.</p>
            <img src="{{ '/assets/edna.jpg' | relative_url }}" alt="forum" data-zoomable>
+        <p>photo by Museu da baleia [instagram](https://www.instagram.com/museudabaleia/) [facebook](https://www.facebook.com/@museu.baleia.madeira/) [youtube](https://www.youtube.com/channel/UCUG7Ev5KgQA5EJjbfbdfAPQ)</p>
          </div>
     <div class="grid-item">
         <h3>Integrative governance</h3>
