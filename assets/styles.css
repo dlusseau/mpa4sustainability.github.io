@@ -91,7 +91,7 @@ footer {
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive columns */
+    grid-template-columns: repeat(3, minmax(300px, 1fr)); /* Responsive columns (auto-fill) */
     gap: 20px; /* Space between grid items */
     padding: 20px;
 }
