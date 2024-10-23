@@ -4,6 +4,8 @@ title: public data
 ---
 
 <h3 id="WP1"> Relationships between biodiversity and ecosystem services </h3>
+* [characterising the socioecological landscape of MPAs](https://figshare.com/s/54467a4ca9d098d5cefa) includes code, metadata, data sources and intersections with WDPA MPA
+* [estimated human-nature interaction network for all WDPA MPAs] 
 
 <h3 id="WP2"> Modelling and prediction of ecosystem resilience under perturbations </h3>
 
