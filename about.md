@@ -46,12 +46,12 @@ MPA4Sustainability will use three European case studies representing typical MPA
 3. A mosaic of MPAs exist in [Øresund](https://maps.app.goo.gl/QjX4qWzd5cf8xAAu5), the strait between Sweden and Denmark. Øresundsvandssamarbejdet (stakeholder consortium) is exploring the potential to create a coherent network of MPAs.  
 
 
-# Funders </h3>
-<ul>
+<h3> Funders </h3>
+
 * Innovation Fund Denmark (IFD), Denmark
 * Agence Nationale de la Recherche (ANR), France
 * Swedish Environmental Protection Agency (SEPA), Sweden
 * Fundação para a Ciência e a Tecnologia (FCT), Portugal
 * State Research Agency (AEI), Spain
 * Biodiversa programme
-</ul>
+
