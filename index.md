@@ -27,7 +27,7 @@ layout: home
     <div class="grid-item">
         <h3>Relationships between biodiversity and ecosystem services</h3>
         <p>We estimate 16,000+ Species-human pressures networks at MPA sites to understand whether their structure differs under different MPA management and socioecological contexts</p>
-       
+       <img src="{{ '/assets/SES.png' | relative_url }}" alt="SES example" data-zoomable>
     </div>
     <div class="grid-item">
         <h3>Modelling and prediction of ecosystem resilience under perturbations</h3>
