@@ -39,9 +39,9 @@ layout: home
         <p>We test the use of ‘citizen monitoring’ and low cost eDNA sampling to monitor MPAs.</p>
            <img src="{{ '/assets/edna.jpg' | relative_url }}" alt="forum" data-zoomable>
             <p>Photo by Museu da baleia: 
-        <a href="https://www.instagram.com/museudabaleia/" target="_blank">Instagram</a>, 
-        <a href="https://www.facebook.com/@museu.baleia.madeira/" target="_blank">Facebook</a>, 
-        <a href="https://www.youtube.com/channel/UCUG7Ev5KgQA5EJjbfbdfAPQ" target="_blank">YouTube</a>
+        <a href="https://www.instagram.com/museudabaleia/" target="_blank"><i class="fab fa-instagram"></i></a>, 
+        <a href="https://www.facebook.com/@museu.baleia.madeira/" target="_blank"><i class="fab fa-facebook"></i></a>, 
+        <a href="https://www.youtube.com/channel/UCUG7Ev5KgQA5EJjbfbdfAPQ" target="_blank"><i class="fab fa-youtube"></i></a>
     </p>
          </div>
     <div class="grid-item">
