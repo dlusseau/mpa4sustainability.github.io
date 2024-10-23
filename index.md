@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<h2> Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services - a [BIODIVERSA](https://www.biodiversa.eu/2022/10/25/mpa4sustainability/) project </h2>
+<h2> Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services - a <a href="https://www.biodiversa.eu/2022/10/25/mpa4sustainability/" target="_blank">BIODIVERSA</a>  </h2>
 
 <p> You can find more about the objectives and work ongoing in this project in the about page.</p>
 <p> This website is dedicated to dissemination. You can find links to the data we generate, our code and our publications. </p>
