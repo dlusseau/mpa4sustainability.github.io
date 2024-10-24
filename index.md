@@ -26,21 +26,27 @@ layout: home
     </div>
     <div class="grid-item">
         <h3>Relationships between biodiversity and ecosystem services</h3>
-        <p>We estimate 16,000+ Species-human pressures networks at MPA sites to understand whether their structure differs under different MPA management and socioecological contexts</p>
+        <div class="justified-text">
+        <p>We estimate 16,000 Species-human activities networks at MPA sites to understand whether their structure differs under different MPA management and socioecological contexts</p>
+        </div>
         <a href="publication.html#WP1" target="_blank">[outputs]</a>
         
        <img src="{{ '/assets/SES.png' | relative_url }}" alt="SES example" data-zoomable>
     </div>
     <div class="grid-item">
         <h3>Modelling and prediction of ecosystem resilience under perturbations</h3>
-        <p>we investigate how ecosystem services (ES) exploitation affects ecological dynamics and causes biodiversity and ES loss in MPAs and coastal systems</p>
+        <div class="justified-text">
+        <p>We investigate how ecosystem services (ES) exploitation affects ecological dynamics and causes biodiversity and ES loss in MPAs and coastal systems</p>
+        </div>
         <a href="publication.html#WP2" target="_blank">[outputs]</a>
         
          <img src="{{ '/assets/phasediagram.png' | relative_url }}" alt="phase diagram" data-zoomable>
     </div>
     <div class="grid-item">
         <h3>Intelligent monitoring</h3>
+        <div class="justified-text">
         <p>We test the use of ‘citizen monitoring’ and low cost eDNA sampling to monitor MPAs.</p>
+        </div>
         <a href="publication.html#WP3" target="_blank">[outputs]</a>
         
            <img src="{{ '/assets/edna.jpg' | relative_url }}" alt="forum" data-zoomable>
