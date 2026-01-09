@@ -3,6 +3,7 @@ title: "MPA4Sustainability"
 short_title: "MPA4Sustainability"
 description: "Enhancing MPAs’ role in restoring biodiversity while maintaining access to ecosystem services."
 url: "https://mpa4sustainability.github.io"  # update if you add a custom domain
+baseurl: "" 
 social_image: "/assets/img/social-card.jpg"  # optional (add the image later)
 markdown: kramdown
 theme: null   # ensure we use our custom layout/CSS
