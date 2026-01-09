@@ -1,0 +1,38 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}" />
+  {{ site.url }}{{ page.url }}
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:title" content="{{ page.title | default: site.title }}" />
+  <meta property="og:description" content="{{ page.description | default: site.description }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% if site.social_image %}<meta property="og:image" content="{{ site.url }}{{ site.social_image }}" />{% endif %}
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- Fonts & CSS -->
+  https://fonts.gstatic.com
+  https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap
+  {{ 
+</head>
+<body class="theme-light">
+  #mainSkip to content</a>
+
+  {% include header.html %}
+
+  <main id="main" class="container">
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+  {{ </script>
+</body>
+</html>
+``
