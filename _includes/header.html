@@ -1,3 +1,4 @@
+
 <header class="site-header">
   <nav class="nav container" aria-label="Primary">
     {{ {{ site.short_title | default: site.title }}</a>
@@ -7,9 +8,12 @@
     </button>
 
     <ul id="menu" class="nav-list">
-      <li><{ Home</a></li>
+      <li><a href="{{ '/'>
       <li>{{ Publications</a></li>
       <li>{{ About</a></li>
-      <li><a href="{{ '/contact' | relative  <button class="mode-toggle" aria-label="Toggle dark mode">🌙</button>
+      <li>{{ Contact</a></li>
+    </ul>
+
+    <button class="mode-toggle" aria-label="Toggle dark mode">🌙</button>
   </nav>
 </header>

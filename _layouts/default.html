@@ -6,19 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}" />
-  {{ site.url }}{{ page.url }}
+  {{ page.url | absolute_url }}
 
-  <!-- Open Graph / Twitter -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}" />
-  <meta property="og:description" content="{{ page.description | default: site.description }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  {% if site.social_image %}<meta property="og:image" content="{{ site.url }}{{ site.social_image }}" />{% endif %}
-  <meta name="twitter:card" content="summary_large_image" />
-
-  <!-- Fonts & CSS -->
   https://fonts.gstatic.com
-  https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@display=swap
   {{ 
 </head>
 <body class="theme-light">
@@ -35,4 +26,3 @@
   {{ </script>
 </body>
 </html>
-``

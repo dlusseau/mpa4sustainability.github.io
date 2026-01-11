@@ -13,7 +13,7 @@ description: Enhancing MPAs’ role in restoring biodiversity while maintaining 
   <article class="card">
     <h2>Latest results</h2>
     <p>Browse publications and outputs from the consortium.</p>
-    <a class="card-link" href="{{ '/publication' | relative_urlard">
+    <a class="card-link" href="{{ '/publication' | relative_url="card">
     <h2>Project partners</h2>
     <p>Academic and institutional partners across Europe collaborating on marine SES.</p>
     <a class="card-link" href="{{ '/about' | relative_url="card">
